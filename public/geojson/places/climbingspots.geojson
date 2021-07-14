@@ -1,0 +1,683 @@
+{
+  "type": "FeatureCollection",
+  "_style": "custom",
+  "_icon": "toggle-up",
+  "_generalFading": 20000,
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.359640384800000,
+          47.940568949499998
+        ]
+      },
+      "properties": {
+        "FID": 0,
+        "Id": "0",
+        "Name": "Pfarrfels"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.342617274300000,
+          47.931542110999999
+        ]
+      },
+      "properties": {
+        "FID": 1,
+        "Id": "0",
+        "Name": "Radochwand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.345742437800000,
+          47.920780716700001
+        ]
+      },
+      "properties": {
+        "FID": 2,
+        "Id": "0",
+        "Name": "Weissensteinerwand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.354019703700001,
+          47.913995533300003
+        ]
+      },
+      "properties": {
+        "FID": 3,
+        "Id": "0",
+        "Name": "Kreuzmauer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.338471245399999,
+          47.918408958500002
+        ]
+      },
+      "properties": {
+        "FID": 4,
+        "Id": "0",
+        "Name": "Zapfl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.319865996600001,
+          47.913791042400000
+        ]
+      },
+      "properties": {
+        "FID": 5,
+        "Id": "0",
+        "Name": "Schreibachfallwand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.375225392100001,
+          47.924180826899999
+        ]
+      },
+      "properties": {
+        "FID": 6,
+        "Id": "0",
+        "Name": "Wendbach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.382347744800001,
+          47.919798956900003
+        ]
+      },
+      "properties": {
+        "FID": 7,
+        "Id": "0",
+        "Name": "Nixloch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.381063030300000,
+          47.920693969299997
+        ]
+      },
+      "properties": {
+        "FID": 8,
+        "Id": "0",
+        "Name": "Unterer Wandteil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.416849009700000,
+          47.922663865300002
+        ]
+      },
+      "properties": {
+        "FID": 9,
+        "Id": "0",
+        "Name": "Gelsenwand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.409401905899999,
+          47.927531975299999
+        ]
+      },
+      "properties": {
+        "FID": 10,
+        "Id": "0",
+        "Name": "Goldgrub"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.430735169300000,
+          47.917870750900001
+        ]
+      },
+      "properties": {
+        "FID": 11,
+        "Id": "0",
+        "Name": "Schönstein"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.435690628500000,
+          47.918518255499997
+        ]
+      },
+      "properties": {
+        "FID": 12,
+        "Id": "0",
+        "Name": "Hakenkreuzwand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.426557514300001,
+          47.917575447899999
+        ]
+      },
+      "properties": {
+        "FID": 13,
+        "Id": "0",
+        "Name": "Blaslmauer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.437620067999999,
+          47.923500916300000
+        ]
+      },
+      "properties": {
+        "FID": 14,
+        "Id": "0",
+        "Name": "Burgfels"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.469010600400001,
+          47.925673624300003
+        ]
+      },
+      "properties": {
+        "FID": 15,
+        "Id": "0",
+        "Name": "Peilstein"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.476966015000000,
+          47.938681637700000
+        ]
+      },
+      "properties": {
+        "FID": 16,
+        "Id": "0",
+        "Name": "Sauzahn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.425658239700001,
+          47.962373473699998
+        ]
+      },
+      "properties": {
+        "FID": 17,
+        "Id": "0",
+        "Name": "Rebenstein"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.436080684600000,
+          47.961059811500000
+        ]
+      },
+      "properties": {
+        "FID": 18,
+        "Id": "0",
+        "Name": "Langenstein"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.438508049199999,
+          47.960583460300001
+        ]
+      },
+      "properties": {
+        "FID": 19,
+        "Id": "0",
+        "Name": "Camp Sibley"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.458353680600000,
+          47.952721925799999
+        ]
+      },
+      "properties": {
+        "FID": 20,
+        "Id": "0",
+        "Name": "Riesenbergerwand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.454554046400000,
+          47.953141634200001
+        ]
+      },
+      "properties": {
+        "FID": 21,
+        "Id": "0",
+        "Name": "Sonnleitnerwand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.454664537199999,
+          47.917876520199997
+        ]
+      },
+      "properties": {
+        "FID": 22,
+        "Id": "0",
+        "Name": "Brunnwiesmauer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.453999801700000,
+          47.916860706500003
+        ]
+      },
+      "properties": {
+        "FID": 23,
+        "Id": "0",
+        "Name": "Nußwand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.454669894700000,
+          47.917008380699997
+        ]
+      },
+      "properties": {
+        "FID": 24,
+        "Id": "0",
+        "Name": "Hacker Nordwand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.453672554400001,
+          47.917181809799999
+        ]
+      },
+      "properties": {
+        "FID": 25,
+        "Id": "0",
+        "Name": "Hackerschädel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.453368395100000,
+          47.917128610500001
+        ]
+      },
+      "properties": {
+        "FID": 26,
+        "Id": "0",
+        "Name": "Hackermauer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.453109255499999,
+          47.915680511700003
+        ]
+      },
+      "properties": {
+        "FID": 27,
+        "Id": "0",
+        "Name": "Evamauer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.456419102400000,
+          47.914867749700001
+        ]
+      },
+      "properties": {
+        "FID": 28,
+        "Id": "0",
+        "Name": "Pfennigstein"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.454897443100000,
+          47.914558956400001
+        ]
+      },
+      "properties": {
+        "FID": 29,
+        "Id": "0",
+        "Name": "Pfennigsteinmauer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.524490738200001,
+          47.910747951399998
+        ]
+      },
+      "properties": {
+        "FID": 30,
+        "Id": "0",
+        "Name": "Wolkerlmauer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.596695768800000,
+          47.880812743900002
+        ]
+      },
+      "properties": {
+        "FID": 31,
+        "Id": "0",
+        "Name": "Steinwirt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.643027789200000,
+          47.850890576799998
+        ]
+      },
+      "properties": {
+        "FID": 32,
+        "Id": "0",
+        "Name": "Vision 2000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.642366924699999,
+          47.841322386100003
+        ]
+      },
+      "properties": {
+        "FID": 33,
+        "Id": "0",
+        "Name": "Weyer Neu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.644814481499999,
+          47.838572162799998
+        ]
+      },
+      "properties": {
+        "FID": 34,
+        "Id": "0",
+        "Name": "Rettenstein"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.488245856300001,
+          47.683440531000002
+        ]
+      },
+      "properties": {
+        "FID": 35,
+        "Id": "0",
+        "Name": "Kampermauer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.428154361100001,
+          47.962365620699998
+        ]
+      },
+      "properties": {
+        "FID": 36,
+        "Id": "0",
+        "Name": "Rebenstein Nord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.454287967100001,
+          47.916917738700000
+        ]
+      },
+      "properties": {
+        "FID": 37,
+        "Id": "0",
+        "Name": "Obere Nußwand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.484247315299999,
+          47.911632774300003
+        ]
+      },
+      "properties": {
+        "FID": 38,
+        "Id": "0",
+        "Name": "Schieferstein"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.273658924399999,
+          47.918197812899997
+        ]
+      },
+      "properties": {
+        "FID": 39,
+        "Id": "0",
+        "Name": "Dorngraben Nord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.278841292599999,
+          47.915984385199998
+        ]
+      },
+      "properties": {
+        "FID": 40,
+        "Id": "0",
+        "Name": "Dorngraben Süd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.224019117599999,
+          47.917098851799999
+        ]
+      },
+      "properties": {
+        "FID": 41,
+        "Id": "0",
+        "Name": "Schauderzinken"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.204407352700001,
+          47.912406391899999
+        ]
+      },
+      "properties": {
+        "FID": 42,
+        "Id": "0",
+        "Name": "Rinnerbergerklamm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.266200664199999,
+          47.904877554999999
+        ]
+      },
+      "properties": {
+        "FID": 43,
+        "Id": "0",
+        "Name": "Felsklinik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.267171041499999,
+          47.908130029399999
+        ]
+      },
+      "properties": {
+        "FID": 44,
+        "Id": "0",
+        "Name": "Felsentor"
+      }
+    }
+  ]
+}

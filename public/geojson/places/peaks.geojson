@@ -1,0 +1,316 @@
+{
+  "name": "peaks",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1001,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.357757568359373,
+          48.30957366036914
+        ]
+      },
+      "properties": {
+        "anchorOffset": {
+          "y": 70,
+          "x": 0
+        },
+        "id": 1005,
+        "borderRadius": 32,
+        "image": "img/pfenningberg.jpg",
+        "height": 60,
+        "width": 60,
+        "borderWidth": 2,
+        "background": "#ccc"
+      }
+    },
+    {
+      "geometry": {
+        "id": 1002,
+        "type": "Point",
+        "coordinates": [
+          14.357757568359373,
+          48.30957366036914
+        ]
+      },
+      "type": "Feature",
+      "id": 1003,
+      "properties": {
+        "fontSize": 20,
+        "anchorOffset": {
+          "y": 45,
+          "x": 0
+        },
+        "icon": "caret-down"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.357757568359373,
+          48.30957366036914
+        ]
+      },
+      "type": "Feature",
+      "id": 1000,
+      "properties": {
+        "name": "Pfenningberg",
+        "borderRadius": 23,
+        "padding": 5,
+        "fontSize": 13,
+        "background": "#44b6f7",
+        "anchor": "bottom"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.25450325012207,
+          48.38512868166385
+        ]
+      },
+      "type": "Feature",
+      "id": 2001,
+      "properties": {
+        "anchorOffset": {
+          "y": 70,
+          "x": 0
+        },
+        "borderRadius": 32,
+        "image": "img/giselawarte.jpg",
+        "height": 60,
+        "width": 60,
+        "borderWidth": 2,
+        "background": "#ccc"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.25450325012207,
+          48.38512868166385
+        ]
+      },
+      "type": "Feature",
+      "id": 2002,
+      "properties": {
+        "fontSize": 20,
+        "anchorOffset": {
+          "y": 45,
+          "x": 0
+        },
+        "icon": "caret-down"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.25450325012207,
+          48.38512868166385
+        ]
+      },
+      "type": "Feature",
+      "id": 2000,
+      "properties": {
+        "name": "Giselawarte",
+        "borderRadius": 23,
+        "padding": 5,
+        "fontSize": 13,
+        "background": "#44b6f7",
+        "anchor": "bottom"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2218017578125,
+          48.29415798558204
+        ]
+      },
+      "type": "Feature",
+      "id": 4001,
+      "properties": {
+        "anchorOffset": {
+          "y": 70,
+          "x": 0
+        },
+        "borderRadius": 32,
+        "image": "img/kuernberg.jpg",
+        "height": 60,
+        "width": 60,
+        "borderWidth": 2,
+        "background": "#ccc"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2218017578125,
+          48.29415798558204
+        ]
+      },
+      "type": "Feature",
+      "id": 4002,
+      "properties": {
+        "fontSize": 20,
+        "anchorOffset": {
+          "y": 45,
+          "x": 0
+        },
+        "icon": "caret-down"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2218017578125,
+          48.29415798558204
+        ]
+      },
+      "type": "Feature",
+      "id": 4000,
+      "properties": {
+        "name": "Kürnberg",
+        "borderRadius": 23,
+        "padding": 5,
+        "fontSize": 13,
+        "background": "#44b6f7",
+        "anchor": "bottom"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.309542179107666,
+          48.357446734463174
+        ]
+      },
+      "type": "Feature",
+      "id": 3003,
+      "properties": {
+        "anchorOffset": {
+          "y": 70,
+          "x": 0
+        },
+        "borderRadius": 32,
+        "image": "img/oberbairing.jpg",
+        "height": 60,
+        "width": 60,
+        "borderWidth": 2,
+        "background": "#ccc"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.309542179107666,
+          48.357446734463174
+        ]
+      },
+      "type": "Feature",
+      "id": 3007,
+      "properties": {
+        "fontSize": 20,
+        "anchorOffset": {
+          "y": 45,
+          "x": 0
+        },
+        "icon": "caret-down"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.309542179107666,
+          48.357446734463174
+        ]
+      },
+      "type": "Feature",
+      "id": 3000,
+      "properties": {
+        "name": "Magdalena",
+        "borderRadius": 23,
+        "padding": 5,
+        "fontSize": 13,
+        "background": "#44b6f7",
+        "anchor": "bottom"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.258108139038086,
+          48.32398595848817
+        ]
+      },
+      "type": "Feature",
+      "id": 5003,
+      "properties": {
+        "anchorOffset": {
+          "y": 70,
+          "x": 0
+        },
+        "borderRadius": 32,
+        "image": "img/poestlingberg.jpg",
+        "height": 60,
+        "width": 60,
+        "borderWidth": 2,
+        "background": "#ccc"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.258108139038086,
+          48.32398595848817
+        ]
+      },
+      "type": "Feature",
+      "id": 5002,
+      "properties": {
+        "fontSize": 20,
+        "anchorOffset": {
+          "y": 45,
+          "x": 0
+        },
+        "icon": "caret-down"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.258108139038086,
+          48.32398595848817
+        ]
+      },
+      "type": "Feature",
+      "id": 5000,
+      "properties": {
+        "name": "Pöstlingberg",
+        "borderRadius": 23,
+        "padding": 5,
+        "fontSize": 13,
+        "background": "#44b6f7",
+        "anchor": "bottom"
+      }
+    }
+  ]
+}
+
+
+

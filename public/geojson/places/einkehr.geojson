@@ -1,0 +1,186 @@
+{
+  "type": "FeatureCollection",
+  "_style" : "custom",
+  "_icon" : "cutlery",
+  "_generalFading": 9000,
+  "features":
+ [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Daxleitner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.373292922973631,
+          48.305406177863944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.336063861846926,
+          48.31971977169379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mostschank Hametner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.356513023376463,
+          48.32310136044826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mostbauer Schatz"
+
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.322996139526367,
+          48.34341470978679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mostbauer z'Linz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.303383827209473,
+          48.346666376503315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fisch & Grill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.291281700134277,
+          48.35319760642604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Wia z'haus Lehner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.277763366699219,
+          48.32692499664683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": " Zum Mittersberger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.262700080871582,
+          48.31882083063846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mostbauer Eichhorn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.247636795043945,
+          48.292216422418356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.214076995849608,
+          48.283078663405014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Gasthaus Exenschläger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.274673461914062,
+          48.34361437951056
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Wirt z'Bairing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.31267499923706,
+          48.36768311096013
+        ]
+      }
+    }
+  ]
+}

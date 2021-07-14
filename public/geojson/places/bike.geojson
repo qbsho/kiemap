@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "_style" : "custom",
+  "_icon" : "bicycle",
+  "_generalFading": 25000,
+  "features":
+[
+    {
+      "type": "Feature",
+      "name": "Pumptrack",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.321960806846619,
+          48.30249801546167
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "name": "Dirtjump park",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.33294713497162,
+          48.31580997617748
+        ]
+      }
+    }
+  ]
+}
+
+
