@@ -15,7 +15,7 @@ const DATASOURCE = {
     apiKey: NASADEM_APIKEY,
   },
   imagery: {
-    urlFormat: 'https://maps1.wien.gv.at/basemap/bmaporthofoto30cm/normal/google3857/{z}/{y}/{x}.jpg',
+    urlFormat: 'https://api.maptiler.com/tiles/satellite/{z}/{x}/{y}.jpg?key=cLb6ie37kUNRSj6VHe6J',
     attribution: 'Tiles &copy; <a href="https://www.basemap.at/">basemap.at</a>'
   }
 };
@@ -107,6 +107,7 @@ export default class MapHandler {
         console.error('No geoJson loaded');
         return;
       }
+
       const featureCollection:any = mapSpotPin(
         (poisList as any)._icon,
         (poisList as any).features,
@@ -115,6 +116,7 @@ export default class MapHandler {
         (poisList as any)._generalFading
       );
       data.geoJson = featureCollection;
+      console.log(featureCollection)
       this._addOverlay(procedural, data);
     });
   }

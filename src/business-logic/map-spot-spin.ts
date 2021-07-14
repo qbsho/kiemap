@@ -15,10 +15,10 @@ export const mapSpotPin = (collectionName: string, features: any, iconName: stri
           "y": 70,
           "x": 0
         },
-        borderRadius: 25,
-        padding: 10,
+        borderRadius: 20,
+        padding: 8,
         borderWidth: 2,
-        background: "#00bcd4",
+        background: "#e46200",
         icon: iconName,
         fontSize: 16,
         name: poi.properties?.Name
@@ -42,7 +42,8 @@ export const mapSpotPin = (collectionName: string, features: any, iconName: stri
       type: "Feature",
       geometry: poi.geometry,
       properties: {
-        color: "#00bcd4",
+        selectable: false,
+        color: "#e46200",
         fontSize: 40,
         name: "|",
         anchorOffset: {
@@ -56,6 +57,7 @@ export const mapSpotPin = (collectionName: string, features: any, iconName: stri
     const defaults = {
       properties: {
         color: "white",
+
         collapseDistance: 6000,
         fadeDistance: fading
       }
@@ -69,7 +71,6 @@ export const mapSpotPin = (collectionName: string, features: any, iconName: stri
     featureCollection.features.push(featureAnchor);
     // @ts-ignore -- corrently no types available
     featureCollection.defaults = defaults;
-
 
   });
 

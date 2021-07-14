@@ -1,11 +1,11 @@
 <template>
+
   <div class="map-container">
     <Interactions />
     <div
       class="map-canvas"
       ref="mapCanvas"
     ></div>
-
   </div>
 </template>
 
@@ -13,12 +13,10 @@
 
   import {ref, defineComponent, onMounted, inject} from "vue";
   import Interactions from './Interactions.vue';
-  import SpotList from './SpotList.vue'
   import MapHandler, {MAP_HANDLER_DI_NAME} from '../business-logic/map-handler';
   export default defineComponent({
     components: {
-      Interactions,
-      SpotList
+      Interactions
     },
     setup() {
       const mapCanvas = ref(null);
