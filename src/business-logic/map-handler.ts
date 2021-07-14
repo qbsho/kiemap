@@ -15,7 +15,8 @@ const DATASOURCE = {
     apiKey: NASADEM_APIKEY,
   },
   imagery: {
-    urlFormat: 'https://api.maptiler.com/tiles/satellite/{z}/{x}/{y}.jpg?key=cLb6ie37kUNRSj6VHe6J',
+   // urlFormat: 'https://api.maptiler.com/tiles/satellite/{z}/{x}/{y}.jpg?key=cLb6ie37kUNRSj6VHe6J',
+    urlFormat:'https://maps1.wien.gv.at/basemap/bmaporthofoto30cm/normal/google3857/{z}/{y}/{x}.jpg',
     attribution: 'Tiles &copy; <a href="https://www.basemap.at/">basemap.at</a>'
   }
 };
