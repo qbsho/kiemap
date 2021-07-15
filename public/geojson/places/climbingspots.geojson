@@ -189,21 +189,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.435690628500000,
-          47.918518255499997
-        ]
-      },
-      "properties": {
-        "FID": 12,
-        "Id": "0",
-        "Name": "Hakenkreuzwand"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           14.426557514300001,
           47.917575447899999
         ]
